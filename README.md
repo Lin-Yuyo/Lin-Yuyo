@@ -9,7 +9,7 @@ xmu大二计科学生
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://blog.csdn.net/qq_73422635?spm=1000.2115.3001.5343"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：csdn主页
+-   <a href="https://blog.csdn.net/qq_73422635?spm=1000.2115.3001.5343"><code><img height="20" width="50" src="./images/csdn.png"></code></a>：csdn主页
 
 ### **技术栈:**
 
@@ -26,12 +26,12 @@ xmu大二计科学生
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Lin-Yuyo&repo=XMU_xksj2)]((https://github.com/Lin-Yuyo/XMU_xksj2))
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=Lin-Yuyo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
